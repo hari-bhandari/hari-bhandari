@@ -16,8 +16,8 @@ Hi, I'm Hari Bhandari, a passionate self-taught frontEnd web developer from Engl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/hari-bhandari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-bhandari&count_private=true&theme=radical" alt="Hari's github stats" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=hari-bhandari&count_private=true&theme=radical" alt="Hari's github stats" />
 </a>
 <a href="https://haribhandari.me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-bhandari&repo=portfolio&theme=radical" alt="Hari's github stats" />
+  <img width="100%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-bhandari&repo=portfolio&theme=radical" alt="Hari's github stats" />
 </a>
