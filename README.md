@@ -18,6 +18,10 @@ Hi, I'm Hari Bhandari, a passionate self-taught frontEnd web developer from Engl
 <a href="https://github.com/hari-bhandari">
   <img width="85%" align="center" src="https://github-readme-stats.vercel.app/api?username=hari-bhandari&count_private=true&theme=radical" alt="Hari's github stats" />
 </a>
+
+
+### My Portfolio
+
 <a href="https://haribhandari.me">
   <img width="75%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-bhandari&repo=portfolio&theme=radical" alt="Hari's github stats" />
 </a>
