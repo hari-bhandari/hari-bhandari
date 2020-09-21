@@ -1,3 +1,5 @@
+<div id="github-widget" data-user="hari-bhandari" data-display="contribution"></div>
+<script src="https://gh-widget.oyanglul.us/index.js"></script>
 ### Hi there, I'm [Hari!](https://haribhandari.me) 👋
 
 <br />
