@@ -3,8 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Hari Bhandari, a passionate self-taught frontEnd web developer from England. I like to describe myself as someone persistent and purposeful; I love solving real-life problems, mathematics problems and learning new algorithms.
-                                                                                    I started coding back in 2019 after I graduated from my sixth form with AAB. I was impassive about algorithms, but Advanced level further decision wholly altered my mind. It taught me different aspects of programming from learning algorithms to being more Logical.
+Hi, I'm Hari Bhandari, a passionate self-taught frontEnd web developer from England..
 
 
 
