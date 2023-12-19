@@ -2,8 +2,7 @@
 
 <br />
 <br />
-
-Hi, I'm Hari Bhandari, a passionate self-taught frontEnd web developer from England..
+ a passionate self-taught full stack web developer from England..
 
 
 
@@ -19,16 +18,7 @@ Hi, I'm Hari Bhandari, a passionate self-taught frontEnd web developer from Engl
 
 
 
-### My Github Stats
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-bhandari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hari's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-bhandari&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/hari-bhandari">
-  <img width="85%" align="center" src="https://github-readme-stats.vercel.app/api?username=hari-bhandari&count_private=true&theme=radical" alt="Hari's github stats" />
-</a>
-
-
-### My Portfolio
-
-<a href="https://haribhandari.me">
-  <img width="75%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-bhandari&repo=portfolio&theme=radical" alt="Hari's github stats" />
-</a>
