@@ -2,7 +2,7 @@
 
 <br />
 <br />
- a passionate self-taught full stack web developer from England..
+
 
 
 
